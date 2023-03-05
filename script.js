@@ -90,7 +90,7 @@ let disponibleCajero = [
 ];
 
 /*Se crea una función que recibirá como parámetros el array de objetos que tiene la
-cantidad de billetes que hay en el cajero disponible por cada demoninación y el objeto
+cantidad de billetes que hay en el cajero disponible por cada denominación y el objeto
 que tiene la información del usuario que está ingresando.
 
 Cuando el usuario que ingresa es un administrador, solicita que se ingrese la
@@ -101,10 +101,10 @@ la cantidad de dinero total que hay en el cajero disponible después del cargue.
 
 Cuando el usuario que ingresa es un cliente, debe verificar si hay saldo en el cajero 
 si no hay saldo disponible muestra en consola el mensaje "Cajero en mantenimiento, vuelva pronto." Si hay disponible en el cajero, solicita que se ingrese la cantidad de dinero
-que se quiere retirar, si este valor es mayor al disponbile en el cajero se muestre en 
+que se quiere retirar, si este valor es mayor al disponible en el cajero se muestre en 
 consola "El cajero no cuenta con los fondos suficientes para realizar el retiro."
 
-Si la cantidad a retirar es menor o igual al disponible en el cajero, calculara la cantidad de billetes necesarias por cada denominación y escogerá si entregar o no billetes por cada denominación, de forma paralela actualizará la cantidad de billetes disponibles en el cajero y la cantidad de dinero total disponbile en el cajero. Mostrará entonces en pantalla la cantidad que pudo entregar teniendo en cuenta la disponibilidad de billetes de cada denominación y también mostrará lo que faltó por entregar.
+Si la cantidad a retirar es menor o igual al disponible en el cajero, calculara la cantidad de billetes necesarias por cada denominación y escogerá si entregar o no billetes por cada denominación, de forma paralela actualizará la cantidad de billetes disponibles en el cajero y la cantidad de dinero total disponible en el cajero. Mostrará entonces en pantalla la cantidad que pudo entregar teniendo en cuenta la disponibilidad de billetes de cada denominación y también mostrará lo que faltó por entregar.
 
 Mostrará por consola, la cantidad de dinero disponible en el cajero y la cantidad de billetes por cada denominación. Finalmente le preguntará al usuario si quiere ingresar un nuevo usuario o no, la respuesta que de el usuario será el return de la función.*/
 
