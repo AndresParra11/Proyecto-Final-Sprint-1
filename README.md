@@ -1,4 +1,4 @@
-# Proyecto-Final-Sprint-1
+# Cajero electrónico
 
 Programa que simula el trabajo de un cajero electrónico. El aplicativo debe cumplir con los siguientes requerimientos técnicos:
 
