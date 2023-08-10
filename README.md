@@ -27,3 +27,8 @@ de cada denominación entregó. Priorizando siempre las denominaciones más alta
 
 NOTA: Debes hacer que el cajero se vuelva a ejecutar, haciendo que vuelva a preguntar usuario y contraseña múltiples veces, 
 cargar dinero si es administrador, o retirar dinero si es cliente.
+
+## Tecnologías usadas
+- HTML
+- JavaScript
+
